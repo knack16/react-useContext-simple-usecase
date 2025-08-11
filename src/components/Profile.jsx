@@ -24,7 +24,7 @@ function Profile() {
       marginTop: '20vh',
       fontSize: '1.5rem',
       fontWeight: '500',
-      color: '#fff',
+      color: 'blue',
       fontFamily: 'Segoe UI, sans-serif'
     }}>
       Welcome, {user.userName}!
